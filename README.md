@@ -1,24 +1,9 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+早起き頑張ろうのソースコードです。
 
-Things you may want to cover:
+1. ボタンで起床時間を記録
 
-* Ruby version
+2. 起床時間をグラフで管理
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+主にこの二つの機能を実装予定です。
